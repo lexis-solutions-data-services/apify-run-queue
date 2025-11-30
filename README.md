@@ -16,9 +16,7 @@ A utility actor that runs a list of actors with a retry mechanism. Avoids memory
 | Stat | Value |
 |------|-------|
 | **Version** | `0.0.10` |
-| **Total Runs** | 2,855 |
-| **Total Users** | 19 |
-| **Stats Date** | Nov 30, 2025 |
+| **Last Update** | Nov 30, 2025 |
 
 ---
 
