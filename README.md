@@ -16,13 +16,30 @@ A utility actor that runs a list of actors with a retry mechanism. Avoids memory
 | Stat | Value |
 |------|-------|
 | **Version** | `0.0.10` |
-| **Last Update** | Nov 30, 2025 |
+| **Last Update** | Dec 1, 2025 |
 
 ---
 
 
 
 You have a large number of runs you want to start on Apify. However, sometimes your memory limit is exceeded and Apify will not let you start any more runs, and you end up with a lot of failed runs.
+
+
+## 💻 Integration Examples
+
+This repository includes example code showing how to integrate the `apify-run-queue` actor into your projects.
+
+You can find example implementations in the [`examples/`](./examples) folder:
+- **TypeScript/JavaScript**: See [`examples/typescript/`](./examples/typescript) for a complete TypeScript example
+- **Python**: See [`examples/python/`](./examples/python) for a complete Python example
+
+Each example includes:
+- Ready-to-use code templates
+- Setup instructions
+- Documentation links
+
+---
+
 
 ## Solution 💡
 
